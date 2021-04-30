@@ -19,5 +19,5 @@ npm install
 
 4. 
 ```
-npm start
+node index.js
 ```
