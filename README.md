@@ -1,4 +1,4 @@
-# bloom-project-order-service-api
+## bloom-project-order-service-api (built with Express and PosgreSQL)
 
 
 ### To run the api locally
