@@ -8,7 +8,7 @@
 2.
 
 ```
-https://github.com/tokich6/bloom-project-inventory-api.git
+https://github.com/tokich6/bloom-project-order-service-api.git
 ```
 
 3.
